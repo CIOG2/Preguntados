@@ -7,14 +7,14 @@ const Numero = () => NUM++;
 
 
 Geografia[Numero()] = new Preguntas({
-    pregunta: '¿Cuantos conteninetes exiseten?',
+    pregunta: '¿Cuantos continetes exiseten?',
     opcion1: 3,
     opcion2: 4,
     opcion3: 6,
     opcion4: 5,
     respuesta: 6,
     imagen: "",
-    imagenRespuesta: "url", 
+    imagenRespuesta: "url",
 });
 
 export default Geografia;

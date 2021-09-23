@@ -19,5 +19,4 @@ class Preguntas{
         this.imagenRespuesta = imagenRespuesta;
     }
 }
-
 export default Preguntas;
