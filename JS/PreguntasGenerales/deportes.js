@@ -37,9 +37,28 @@ Deportes[Numero()] = new Preguntas({
     opcion3: "Platini",
     opcion4: "Pele",
     respuesta: "Pele",
-    imagen: "",
     imagenRespuesta: "https://www.guinnessworldrecords.es/Images/Hall-of-Fame-Pele_tcm29-478317.jpg", 
 }); 
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿Cual es el Pais con mayor cantidad de medallas olimpicas?",
+    opcion1: "Francia",
+    opcion2: "Brasil",
+    opcion3: "China",
+    opcion4: "Estados Unidos",
+    respuesta: "Estados Unidos",
+    imagen: "https://zonaj.net/imgupload/deportes-eliminados-en-la-historia-de-los-juegos-olimpicos_VpXPOu.jpg",
+    imagenRespuesta: "https://www.eluniversal.com.co/juegos-olimpicos-2012/sites/default/files/ESTADOS%20UNIDOS.jpg", 
+}); 
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿Quien es el mayor medallista olimpico de la historia?",
+    opcion1: "Usain Bolt",
+    opcion2: "Muhammad Ali",
+    opcion3: "Jesse Owens",
+    opcion4: "Michael Phelps",
+    respuesta: "Michael Phelps",
+    imagenRespuesta: "https://swimswam.com/wp-content/uploads/2016/07/Michael-Phelps-by-Mike-Lewis-3.jpg", 
+});
+
 
 
 
