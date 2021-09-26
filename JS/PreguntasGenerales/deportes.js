@@ -58,8 +58,42 @@ Deportes[Numero()] = new Preguntas({
     respuesta: "Michael Phelps",
     imagenRespuesta: "https://swimswam.com/wp-content/uploads/2016/07/Michael-Phelps-by-Mike-Lewis-3.jpg", 
 });
-
-
+Deportes [Numero()] = new Preguntas ({
+    pregunta: "Año en el cual Maradona gano la copa del mundo",
+    opcion1: "1970",
+    opcion2: "1975",
+    opcion3: "1980",
+    opcion4: "1986",
+    respuesta: "1986",
+    imagen: "https://images.ecestaticos.com/WdsjH-iuX4FmwoFaYHuprKEm1H0=/251x0:1149x633/992x700/filters:fill(white):format(JPG)/f.elconfidencial.com/original/9f6/914/fb9/9f6914fb931ad06438aea74877dce6dc.jpg",
+})
+Deportes[Numero()] = new Preguntas({
+    pregunta: "Año en el cual los Dodgers ganaron su septimo campeonato de serie mundial",
+    opcion1: "2004",
+    opcion2: "2007",
+    opcion3: "2015",
+    opcion4: "2020",
+    respuesta: "2020",
+    imagen: "https://www.mlbstatic.com/team-logos/share/119.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "Jugador de NFL con mas anillos de Super Bowl",
+    opcion1: "Charles Haley",
+    opcion2: "Joe Montana",
+    opcion3: "Jesse Sapolu",
+    opcion4: "Tom Brady",
+    respuesta: "Tom Brady",
+    imagenRespuesta: "https://a.espncdn.com/photo/2021/0723/r884242_1296x729_16-9.jpg", 
+}); 
+Deportes[Numero()] = new Preguntas({
+    pregunta: "Fisicoculturista ganador 8 veces del Mr.Olympia",
+    opcion1: "Arnold Schwarzenegger",
+    opcion2: "Dorian Yates",
+    opcion3: "Jay Cutler",
+    opcion4: "Ronnie Coleman",
+    respuesta: "Ronnie Coleman",
+    imagenRespuesta: "https://media.gq.com.mx/photos/605fb98e40c44aa45469e1c7/master/w_3000,c_limit/ronnie%20concurso.jpg", 
+}); 
 
 
 export default Deportes;
