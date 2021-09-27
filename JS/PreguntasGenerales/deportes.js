@@ -94,6 +94,42 @@ Deportes[Numero()] = new Preguntas({
     respuesta: "Ronnie Coleman",
     imagenRespuesta: "https://media.gq.com.mx/photos/605fb98e40c44aa45469e1c7/master/w_3000,c_limit/ronnie%20concurso.jpg", 
 }); 
+Deportes[Numero()] = new Preguntas({
+    pregunta: "Seleccion con mas mundiales de Futbol",
+    opcion1: "Francia",
+    opcion2: "Italia",
+    opcion3: "Alemania",
+    opcion4: "Brasil",
+    respuesta: "Brasil",
+    imagenRespuesta: "https://libretilla.com/wp-content/uploads/2019/09/brasil-bandera.png", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "Es conciderada una posicion de un equipo de Basketball",
+    opcion1: "Filder",
+    opcion2: "Portero",
+    opcion3: "Delantero",
+    opcion4: "Escolta",
+    respuesta: "Escolta",
+    imagenRespuesta: "https://asisejuega.com/wp-content/uploads/2021/05/las-posiciones-del-basquetbol.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "Rafael Nadal forma parte de la historia del  __________",
+    opcion1: "Voleibol",
+    opcion2: "Golf",
+    opcion3: "Beisbol",
+    opcion4: "Tenis",
+    respuesta: "Tenis",
+    imagen: "https://www.elsoldemexico.com.mx/deportes/tenis/560zw4-nadal3.jpg/ALTERNATES/LANDSCAPE_400/nadal3.jpg",
+}); 
+Deportes[Numero()] = new Preguntas({
+    pregunta: "Equipo de Beisbol con mas campeonatos en los juegos olimpicos",
+    opcion1: "Estados Unidos",
+    opcion2: "Japon",
+    opcion3: "Republica Dominicana",
+    opcion4: "Cuba",
+    respuesta: "Cuba",
+    imagenRespuesta: "https://gtimg.tokyo2020.org/image/private/t_article-image-desktop/production/y2gcphhvippzvajtupys", 
+}); 
 
 
 export default Deportes;
