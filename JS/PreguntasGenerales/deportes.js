@@ -130,6 +130,94 @@ Deportes[Numero()] = new Preguntas({
     respuesta: "Cuba",
     imagenRespuesta: "https://gtimg.tokyo2020.org/image/private/t_article-image-desktop/production/y2gcphhvippzvajtupys", 
 }); 
-
-
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿En que año se disputo la primera copa mundial de futbol?",
+    opcion1: "1934",
+    opcion2: "1935",
+    opcion3: "1940",
+    opcion4: "1930",
+    respuesta: "1930",
+    imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tour_da_Taça_da_Copa_do_Mundo_%2814231974005%29.jpg/245px-Tour_da_Taça_da_Copa_do_Mundo_%2814231974005%29.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿Que deporte practicaba Julio Cesar Chavez?",
+    opcion1: "Futbol",
+    opcion2: "Voleibol",
+    opcion3: "Beisbol",
+    opcion4: "Boxeo",
+    respuesta: "Boxeo",
+    imagenRespuesta: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tour_da_Taça_da_Copa_do_Mundo_%2814231974005%29.jpg/245px-Tour_da_Taça_da_Copa_do_Mundo_%2814231974005%29.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿A que encuentro de futbol se le denomino el 'MARACANAZO'?",
+    opcion1: "Alemania vs Brasil",
+    opcion2: "Uruguay vs Argentina",
+    opcion3: "Argentina vs Brasil",
+    opcion4: "Brasil vs Uruguay",
+    respuesta: "Brasil vs Uruguay",
+    imagenRespuesta: "https://media.historiahoy.com.ar/adjuntos/231/imagenes/000/077/0000077923.jpeg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿A que equipo de basketball se le apodo 'Dream Team'?",
+    opcion1: "Alemania",
+    opcion2: "Lituania",
+    opcion3: "Croacia",
+    opcion4: "Estados Unidos",
+    respuesta: "Estados Unidos",
+    imagenRespuesta: "https://phantom-marca.unidadeditorial.es/6da2d2fb970bb0d736cf089e941af99f/resize/1320/f/jpg/assets/multimedia/imagenes/2021/09/22/16322929694121.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿Quien fue el autor de 'La mano de dios'?",
+    opcion1: "Gerhard Muller",
+    opcion2: "Ronaldo",
+    opcion3: "Pele",
+    opcion4: "Maradona",
+    respuesta: "Maradona",
+    imagenRespuesta: "https://images.mediotiempo.com/6h9Gdx-OKajnbIpeTKo1DpJsOcY=/958x596/uploads/media/2017/06/01/mano-de-dios.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿Que deporte practicaba Babe Ruth?",
+    opcion1: "Futbol Americano",
+    opcion2: "Lucha",
+    opcion3: "Baloncesto",
+    opcion4: "Beisbol",
+    respuesta: "Beisbol",
+    imagenRespuesta: "https://cadenaser00.epimg.net/ser/imagenes/2021/06/30/ser_madrid_sur/1625057662_253558_1625058148_noticia_normal.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿Quien es el maximo goleador de la copa mundial de futbol?",
+    opcion1: "Cristiano Ronaldo",
+    opcion2: "Ronaldo",
+    opcion3: "Pele",
+    opcion4: "Miroslav Klose",
+    respuesta: "Miroslav Klose",
+    imagenRespuesta: "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2GLIRXJ6RKVH5UEQ7ZOLMUNUYU.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿En que equipo jugaba Michael Jordan?",
+    opcion1: "Golden state",
+    opcion2: "Celtics",
+    opcion3: "Lakers",
+    opcion4: "Chicago Bulls",
+    respuesta: "Chicago Bulls",
+    imagenRespuesta: "https://phantom-elmundo.unidadeditorial.es/3519c50eb24f9ecdc6ddfbdd22d70f4f/crop/29x0/572x362/f/jpg/assets/multimedia/imagenes/2021/04/20/16189530885380.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿A que equipo de futbol le corresponde el lote de los 'Galacticos'?",
+    opcion1: "Barcelona",
+    opcion2: "Liverpool",
+    opcion3: "Milan",
+    opcion4: "Real Madrid",
+    respuesta: "Real Madrid",
+    imagenRespuesta: "https://as01.epimg.net/futbol/imagenes/2021/08/10/primera/1628590630_974363_1628590696_noticia_normal_recorte1.jpg", 
+});
+Deportes[Numero()] = new Preguntas({
+    pregunta: "¿Quien tiene el record de cuadrangulares en las grandes ligas?",
+    opcion1: "Pete Rose",
+    opcion2: "Loe Gehrig",
+    opcion3: "Jackie Robinson",
+    opcion4: "Babe Ruth",
+    respuesta: "Babe Ruth",
+    imagenRespuesta: "https://upload.wikimedia.org/wikipedia/commons/8/86/Babe_Ruth_1922.jpeg", 
+});
 export default Deportes;
